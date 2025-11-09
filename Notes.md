@@ -1,9 +1,8 @@
 Low Level Design
-1) OOP
-2) Analyzing
-3) UML, class diagrams, sequence diagrams, use case diagrams
-4) SOLID, DRY Principles
-5) Design Patterns
+1) OOP, Class Relationships
+2) UML, class diagrams, sequence diagrams, use case diagrams
+3) SOLID, Design Principles ( DRY, KISS, YAGNI and others )
+4) Design Patterns
 
 Requirements ---> Use Cases ---> UML/Class diagrams ---> Model the problem(using OOD) ---> Implement/Code(using Design patterns and SOLID Principles)
 
@@ -40,4 +39,5 @@ BEHAVIORAL PATTERN:
 https://www.geeksforgeeks.org/modern-c-design-patterns-tutorial/
 https://refactoring.guru/design-patterns
 https://github.com/topics/low-level-design
+https://algomaster.io/learn/lld/what-is-lld
 
