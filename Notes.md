@@ -35,7 +35,10 @@ BEHAVIORAL PATTERN:
 -----------------------------------------------------------------------------------------------------------
 
 https://www.geeksforgeeks.org/modern-c-design-patterns-tutorial/
+
 https://refactoring.guru/design-patterns
+
 https://github.com/topics/low-level-design
+
 https://algomaster.io/learn/lld/what-is-lld
 
