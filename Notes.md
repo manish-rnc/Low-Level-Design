@@ -1,10 +1,8 @@
 Low Level Design
 1) OOP, Class Relationships
-2) UML, class diagrams, sequence diagrams, use case diagrams
+2) UML : class diagrams, sequence diagrams, use case diagrams
 3) SOLID, Design Principles ( DRY, KISS, YAGNI and others )
 4) Design Patterns
-
-Requirements ---> Use Cases ---> UML/Class diagrams ---> Model the problem(using OOD) ---> Implement/Code(using Design patterns and SOLID Principles)
 
 -----------------------------------------------------------------------------------------------------------
 
