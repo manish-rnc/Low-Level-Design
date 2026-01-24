@@ -10,31 +10,40 @@ Low Level Design
 
 -----------------------------------------------------------------------------------------------------------
 
-Design patterns - A design pattern provides a general reusable solution for the common problems that occur in software design.
+Design patterns - A design pattern provides a general reusable solution for the common problems that occur in software design. There are a total of 23 design patterns based on GoF.
 Types :
 1) CREATIONAL - designed for class instantiation 
 2) STRUCTURAL - designed for how classes and objects are combined together to form larger structures and provide new functionality
 3) BEHAVIORAL - designed depending on how one class communicates with other
 
-CREATIONAL PATTERN :
-1. Singleton Design Pattern
-2. Factory Design Pattern
-3. Abstract Factory Design Pattern
-4. Prototype Design Pattern
-5. Builder Design Pattern
+CREATIONAL PATTERNS :
+1. Singleton 
+2. Factory 
+3. Abstract Factory 
+4. Prototype 
+5. Builder 
 
-STRUCTURAL PATTERN:
-1. Adapter Design Pattern
-2. Bridge Design Pattern
-3. Composite Design Pattern 
-4. Decorator Design Pattern
-5. Facade Design Pattern
-6. Proxy Design Pattern
-7. Flyweight Design Pattern 
+STRUCTURAL PATTERNS :
+1. Adapter 
+2. Bridge 
+3. Composite 
+4. Decorator 
+5. Facade 
+6. Proxy 
+7. Flyweight 
 
-BEHAVIORAL PATTERN:
-1. Observer Design Pattern
-2. Strategy Design Pattern
+BEHAVIORAL PATTERNS :
+1. Observer 
+2. Strategy 
+3. Chain of Responsibility
+4. Command
+5. Interpreter
+6. Iterator
+7. Mediator
+8. Memento
+9. State
+10. Template Method
+11. Visitor
 
 -----------------------------------------------------------------------------------------------------------
 
