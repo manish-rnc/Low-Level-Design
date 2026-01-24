@@ -11,6 +11,7 @@ Low Level Design
 -----------------------------------------------------------------------------------------------------------
 
 Design patterns - A design pattern provides a general reusable solution for the common problems that occur in software design. There are a total of 23 design patterns based on GoF.
+
 Types :
 1) CREATIONAL - designed for class instantiation 
 2) STRUCTURAL - designed for how classes and objects are combined together to form larger structures and provide new functionality
