@@ -18,24 +18,24 @@ Types :
 3) BEHAVIORAL - designed depending on how one class communicates with other
 
 CREATIONAL PATTERNS :
-1. Singleton 
-2. Factory 
+1. **Singleton**
+2. **Factory**
 3. Abstract Factory 
-4. Prototype 
-5. Builder 
+4. Builder  
+5. Prototype
 
 STRUCTURAL PATTERNS :
-1. Adapter 
-2. Bridge 
-3. Composite 
-4. Decorator 
-5. Facade 
-6. Proxy 
-7. Flyweight 
+1. **Decorator** 
+2. Adapter  
+3. Composite
+4. Bridge 
+6. Facade 
+7. Proxy 
+8. Flyweight 
 
 BEHAVIORAL PATTERNS :
-1. Observer 
-2. Strategy 
+1. **Observer**
+2. **Strategy**
 3. Chain of Responsibility
 4. Command
 5. Interpreter
