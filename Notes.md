@@ -57,3 +57,7 @@ https://github.com/topics/low-level-design
 https://algomaster.io/learn/lld/what-is-lld
 
 https://workat.tech/machine-coding 
+
+-----------------------------------------------------------------------------------------------------------
+
+15 - 20 
